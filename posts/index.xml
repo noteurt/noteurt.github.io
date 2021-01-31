@@ -8,12 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Jan 2021 01:18:43 +0100</lastBuildDate><atom:link href="https://noteurt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>First post</title>
       <link>https://noteurt.github.io/posts/helloworld/</link>
       <pubDate>Sun, 31 Jan 2021 01:18:43 +0100</pubDate>
       
       <guid>https://noteurt.github.io/posts/helloworld/</guid>
-      <description>Hello World (:</description>
+      <description>Hello world,
+I welcome you to my blog. A short introduction. My name is Pascal and currently studying Software Engineering at the university of applied science in Heilbronn, but right now (cause of rona) just sitting at home all day long.
+For this blog I use hugo, a static site generator. Basically you are creating a nice site with the support of hugo. For example themes, templating, nice directory structer etc.</description>
     </item>
     
   </channel>
